@@ -120,4 +120,4 @@ print(a.replace("my", "your")) # your life is over
 a = "my life is over"
 print(a.split()) # ['my', 'life', 'is', 'over']
 print(a.split(" ")) # ['my', 'life', 'is', 'over']
-print(a.split("l")) # ['my ', 'ife is over']
+print(a.split("l")) # ['my ', 'ife is over']git reset HEAD~1
